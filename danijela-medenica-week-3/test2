@@ -1,0 +1,26 @@
+total 176
+-rwxr-xr-x  1 daca  staff  142 Feb 12 08:26 1-sh.sh
+-rwxr-xr-x  1 daca  staff  107 Feb 12 09:45 10-sh.sh
+-rwxr-xr-x  1 daca  staff  228 Feb 12 09:51 11-sh.sh
+-rwxr-xr-x  1 daca  staff   93 Feb 12 12:33 12-sh.sh
+-rwxr-xr-x  1 daca  staff  115 Feb 12 13:21 13-sh.sh
+-rwxr-xr-x  1 daca  staff   94 Feb 12 13:23 14-sh.sh
+-rwxr-xr-x  1 daca  staff   84 Feb 12 13:25 15-sh.sh
+-rwxr-xr-x  1 daca  staff  154 Feb 12 13:55 16-sh.sh
+-rwxr-xr-x  1 daca  staff  219 Feb 12 14:02 17-sh.sh
+-rwxr-xr-x  1 daca  staff   96 Feb 12 15:09 18-sh.sh
+-rwxr-xr-x  1 daca  staff  146 Feb 12 15:12 19-sh.sh
+-rwxr-xr-x  1 daca  staff  131 Feb 12 08:32 2-sh.sh
+-rwxr-xr-x  1 daca  staff   47 Feb 12 08:33 3-sh.sh
+-rwxr-xr-x  1 daca  staff  141 Feb 12 08:39 4-sh.sh
+-rwxr-xr-x  1 daca  staff   68 Feb 12 08:45 5-sh.sh
+-rwxr-xr-x  1 daca  staff  127 Feb 12 09:01 7-sh.sh
+-rwxr-xr-x  1 daca  staff   55 Feb 12 09:03 8-sh.sh
+-rwxr-xr-x  1 daca  staff  154 Feb 12 09:06 9-sh.sh
+-rwxr-xr-x  1 daca  staff  180 Feb 12 08:54 addem
+-rwxr-xr-x  1 daca  staff  181 Feb 12 08:56 multem
+-rw-r--r--  1 daca  staff  124 Feb 12 15:11 test
+-rw-r--r--  1 daca  staff    0 Feb 12 15:47 test2
+-rw-r--r--  1 daca  staff   19 Feb 12 08:25 users.csv
+daca             console      Dec 20 09:20 
+daca             ttys000      Feb 12 12:31 
